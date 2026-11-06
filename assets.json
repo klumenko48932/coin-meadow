@@ -1,0 +1,54 @@
+{
+  "assets": [
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Golden-hour meadow for CoinMeadow: rolling sage hills under a warm cream-to-blue sky, tall grass field in the foreground, drifting gold pollen, no text, no characters, opaque full-screen background"
+    },
+    {
+      "name": "logo",
+      "type": "icon",
+      "prompt": "Round meadow medallion for CoinMeadow: deep green laurel ring over a sage grass strip, a large gold coin stamped with a four-leaf clover in the centre and two small coins resting at its sides, no text, transparent background"
+    },
+    {
+      "name": "icon_home",
+      "type": "sprite",
+      "prompt": "Round cream button plate for CoinMeadow with a brushed-brass rim and a soft parchment face, flat skeuomorphic navigation backing, transparent background"
+    },
+    {
+      "name": "icon_pause",
+      "type": "sprite",
+      "prompt": "Round cream button plate for CoinMeadow with a sage-green rim and a soft parchment face, matching the home plate, transparent background"
+    },
+    {
+      "name": "sprite_1",
+      "type": "sprite",
+      "prompt": "Gold meadow coin for CoinMeadow, front view, brass rim with a lighter inner disc and an embossed star, transparent background"
+    },
+    {
+      "name": "sprite_2",
+      "type": "sprite",
+      "prompt": "Four-leaf clover for CoinMeadow, sage and deep-green leaves with a short stem, flat illustration, transparent background"
+    },
+    {
+      "name": "sprite_3",
+      "type": "sprite",
+      "prompt": "Meadow bee for CoinMeadow, side view, gold and dark-brown striped body with pale translucent wings, flat illustration, transparent background"
+    },
+    {
+      "name": "sprite_4",
+      "type": "sprite",
+      "prompt": "Open wooden treasure chest for CoinMeadow with brass bands and a lock plate, gold coins peeking over the lid, flat illustration, transparent background"
+    },
+    {
+      "name": "sprite_5",
+      "type": "sprite",
+      "prompt": "Golden lucky horseshoe for CoinMeadow with nail holes and a sage four-leaf clover nested in its opening, flat illustration, transparent background"
+    },
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "Launcher icon for CoinMeadow: warm gold field behind a deep-green meadow arc, a centred gold coin stamped with a four-leaf clover, flat illustration, generous padding, no text"
+    }
+  ]
+}

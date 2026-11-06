@@ -1,0 +1,10 @@
+{
+  "attempts": [
+    {
+      "stage": "assets",
+      "raw_stage": "assets",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1793969397
+    }
+  ]
+}

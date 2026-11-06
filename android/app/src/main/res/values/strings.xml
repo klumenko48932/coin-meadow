@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin Meadow</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="resume">RESUME</string>
+    <string name="daily">DAILY</string>
+    <string name="progress">PROGRESS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="settings">SETTINGS</string>
+    <string name="start_challenge">START CHALLENGE</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="close">CLOSE</string>
+    <string name="claim">CLAIM</string>
+
+    <string name="splash_title">COIN MEADOW</string>
+    <string name="splash_subtitle">TAP THE GOLDEN MEADOW</string>
+    <string name="splash_caption">LOADING THE MEADOW</string>
+
+    <string name="menu_title">COIN MEADOW</string>
+    <string name="menu_tagline">STRIKE THE COINS · BEAT THE CLOCK</string>
+    <string name="label_best">BEST</string>
+    <string name="label_streak">STREAK</string>
+
+    <string name="game_hint">TAP THE COINS</string>
+    <string name="label_multiplier">MULTIPLIER</string>
+    <string name="label_level">LEVEL</string>
+    <string name="streak_ribbon">x%1$s STREAK</string>
+    <string name="level_banner">LEVEL %1$d</string>
+    <string name="multiplier_value">x%1$s</string>
+    <string name="coin_gain">+%1$d</string>
+    <string name="seconds_left">%1$d</string>
+    <string name="strike_title">STRIKE METER</string>
+    <string name="strike_perfect">PERFECT STRIKE</string>
+    <string name="strike_good">GOOD STRIKE</string>
+    <string name="strike_missed">MISSED</string>
+    <string name="strike_pot">POT %1$s COINS</string>
+    <string name="paused_title">PAUSED</string>
+    <string name="boost_on">Boost active</string>
+    <string name="boost_off">Boost ready</string>
+    <string name="boost_empty">No boost charges left</string>
+
+    <string name="result_record">MEADOW CLEARED</string>
+    <string name="result_normal">ROUND OVER</string>
+    <string name="coins_collected">COINS COLLECTED</string>
+    <string name="label_best_streak">BEST STREAK</string>
+    <string name="label_top_strike">TOP STRIKE</string>
+    <string name="label_charms">CHARMS</string>
+    <string name="new_charms_title">NEW CHARMS FOUND</string>
+    <string name="strike_multiplier_value">x%1$d</string>
+
+    <string name="daily_title">DAILY CHALLENGE</string>
+    <string name="daily_today">TODAY · DAY %1$d</string>
+    <string name="daily_completed">COMPLETED TODAY</string>
+    <string name="daily_come_back">COME BACK TOMORROW</string>
+    <string name="daily_next_reset">A NEW CHALLENGE GROWS AT MIDNIGHT</string>
+    <string name="daily_streak_label">DAILY STREAK</string>
+    <string name="daily_week">THIS WEEK</string>
+    <string name="daily_reward">REWARD · ONE BOOST CHARGE</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="label_total_coins">TOTAL COINS</string>
+    <string name="label_rounds">ROUNDS PLAYED</string>
+    <string name="label_perfect">PERFECT STRIKES</string>
+    <string name="level_progress">%1$s / %2$s COINS TO LEVEL %3$d</string>
+    <string name="level_max">THE WHOLE MEADOW IS GOLDEN</string>
+    <string name="rewards_title">REWARDS</string>
+    <string name="progress_empty">PLAY A ROUND TO GROW YOUR MEADOW</string>
+    <string name="coins_requirement">%1$s COINS</string>
+
+    <string name="collection_title">COLLECTION</string>
+    <string name="charms_counter">%1$d / %2$d CHARMS</string>
+    <string name="charm_locked">\?\?\?</string>
+    <string name="collection_hint">CHARMS DROP RARELY · KEEP STRIKING</string>
+
+    <string name="settings_sound">SOUND</string>
+    <string name="settings_haptics">HAPTICS</string>
+    <string name="settings_reduced_motion">REDUCED MOTION</string>
+    <string name="settings_difficulty">DIFFICULTY</string>
+    <string name="difficulty_calm">CALM</string>
+    <string name="difficulty_meadow">MEADOW</string>
+    <string name="difficulty_strike">STRIKE</string>
+    <string name="reset_confirm_title">RESET PROGRESS?</string>
+    <string name="reset_confirm_body">This clears every coin, charm and record. It cannot be undone.</string>
+    <string name="settings_footer">COIN STRIKE · COIN MEADOW</string>
+    <string name="settings_footer_note">OFFLINE · AGE 3+ · VIRTUAL COINS ONLY</string>
+    <string name="state_on">On</string>
+    <string name="state_off">Off</string>
+    <string name="state_locked">Locked</string>
+    <string name="state_unlocked">Unlocked</string>
+
+    <string name="cd_back">Go back</string>
+    <string name="cd_settings">Open settings</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_boost">Slow the meadow for five seconds</string>
+    <string name="cd_coin_balance">Coins collected: %1$s</string>
+    <string name="cd_time_left">Seconds left: %1$d</string>
+    <string name="cd_lives">Lives left: %1$d of 3</string>
+    <string name="cd_meadow">Sunlit meadow with golden coins</string>
+    <string name="cd_result_badge">Round result badge</string>
+    <string name="cd_target_coin">Gold coin</string>
+    <string name="cd_target_clover">Lucky clover</string>
+    <string name="cd_target_bee">Buzzing bee</string>
+    <string name="cd_target_chest">Treasure chest</string>
+    <string name="cd_target_charm">Meadow charm</string>
+    <string name="cd_strike_meter">Strike meter, tap to stop the needle</string>
+    <string name="cd_charm">Charm %1$s</string>
+
+    <string name="charm_name_1">Dew Bell</string>
+    <string name="charm_name_2">Sun Clasp</string>
+    <string name="charm_name_3">Clover Knot</string>
+    <string name="charm_name_4">Honey Seal</string>
+    <string name="charm_name_5">Barley Ring</string>
+    <string name="charm_name_6">Meadow Lark</string>
+    <string name="charm_name_7">Amber Acorn</string>
+    <string name="charm_name_8">Thistle Crown</string>
+    <string name="charm_name_9">Brass Beetle</string>
+    <string name="charm_name_10">Harvest Moon</string>
+    <string name="charm_name_11">Golden Fern</string>
+    <string name="charm_name_12">Meadow Heart</string>
+
+    <string name="charm_flavor_1">A tiny bell cast from morning dew. It rings only when nobody listens.</string>
+    <string name="charm_flavor_2">Warm to the touch at noon, cool again by dusk.</string>
+    <string name="charm_flavor_3">Four leaves tied so tightly the knot never slips.</string>
+    <string name="charm_flavor_4">Pressed by the bees themselves, or so the meadow claims.</string>
+    <string name="charm_flavor_5">Woven from the first barley of the season.</string>
+    <string name="charm_flavor_6">It hums the tune the larks sing above the hill.</string>
+    <string name="charm_flavor_7">An acorn dipped in amber, heavy with slow summers.</string>
+    <string name="charm_flavor_8">Spiky, stubborn and strangely lucky.</string>
+    <string name="charm_flavor_9">Brass wings that catch every stray glint of gold.</string>
+    <string name="charm_flavor_10">A full moon beaten flat and hung on a cord.</string>
+    <string name="charm_flavor_11">A fern frond gilded leaf by leaf over one long night.</string>
+    <string name="charm_flavor_12">The meadow keeps one heart. You just found it.</string>
+
+    <string name="level_name_1">Sprout Field</string>
+    <string name="level_name_2">Dandelion Edge</string>
+    <string name="level_name_3">Clover Hill</string>
+    <string name="level_name_4">Barley Row</string>
+    <string name="level_name_5">Golden Acre</string>
+    <string name="level_name_6">Bee Lane</string>
+    <string name="level_name_7">Poppy Bend</string>
+    <string name="level_name_8">Thistle Ridge</string>
+    <string name="level_name_9">Amber Hollow</string>
+    <string name="level_name_10">Harvest Crest</string>
+    <string name="level_name_11">Sunset Pasture</string>
+    <string name="level_name_12">Meadow Crown</string>
+
+    <string name="reward_name_1">First Furrow</string>
+    <string name="reward_name_2">Steady Hands</string>
+    <string name="reward_name_3">Brass Whistle</string>
+    <string name="reward_name_4">Clover Cache</string>
+    <string name="reward_name_5">Golden Scythe</string>
+    <string name="reward_name_6">Meadow Keeper</string>
+
+    <string name="daily_name_1">GOLD RUSH</string>
+    <string name="daily_name_2">STEADY HAND</string>
+    <string name="daily_name_3">CHEST HUNT</string>
+    <string name="daily_rule_1">Only coins and clovers grow today. Thirty seconds, nothing else.</string>
+    <string name="daily_rule_2">One life, full clock. Every bee ends the round.</string>
+    <string name="daily_rule_3">Chests rise three times as often. Time your strikes.</string>
+    <string name="daily_target_1">COLLECT 240 COINS</string>
+    <string name="daily_target_2">COLLECT 150 COINS</string>
+    <string name="daily_target_3">LAND FOUR STRIKES OF x3 OR BETTER</string>
+</resources>

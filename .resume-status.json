@@ -1,0 +1,8 @@
+{
+  "outcome": "succeeded",
+  "fix_type": "transient",
+  "resume_from": "assets",
+  "message": "Pipeline resumed from assets and finished.",
+  "log": "projects/CoinMeadow/.resume-20261106-134957.log",
+  "attempted_at_epoch": 1793969402
+}
